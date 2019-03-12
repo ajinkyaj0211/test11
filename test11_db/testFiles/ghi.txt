@@ -1,2 +1,2 @@
 this is ghi.txt
-The development is yet to be completed
+The development is completed
