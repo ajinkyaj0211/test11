@@ -1,2 +1,6 @@
+<<<<<<< Upstream, based on origin/QA_Image
 This is xyz.txt
 xyz chagned
+=======
+This is xyz.txt
+>>>>>>> f782310 ghi completed and xyz created
