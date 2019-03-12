@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Upstream, based on origin/QA_Image
 <<<<<<< Upstream, based on origin/QA_Image
 <<<<<<< Upstream, based on origin/QA_Image
@@ -18,3 +19,7 @@ This is xyz.txt
 This is xyz.txt
 xyz chagned
 >>>>>>> 7d34797 bef created and xyz changed
+=======
+This is xyz.txt
+xyz chagned
+>>>>>>> refs/remotes/origin/master
